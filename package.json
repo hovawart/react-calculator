@@ -1,5 +1,6 @@
 {
   "name": "calculator-app",
+  "homepage": "https://hovawart.github.io/react-calculator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
